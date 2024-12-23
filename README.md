@@ -1,2 +1,3 @@
 # Calculator
-a simple calculator coded with python
+A simple calculator coded with python
+by @tup4c    [ discord: ywsx ]
